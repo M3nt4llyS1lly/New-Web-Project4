@@ -38,7 +38,7 @@ body {
 }
 /*most of the header stuff is for the animation*/
 header.Homepage {
-    background-image:url(/assets/imgs/NaawiOodena.PNG);
+    background-image:url(assets/imgs/NaawiOodena.PNG);
     background-repeat: no-repeat;
     background-size: 1575px;
     padding: 10px;
