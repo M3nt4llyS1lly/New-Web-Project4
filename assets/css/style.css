@@ -38,7 +38,7 @@ body {
 }
 /*most of the header stuff is for the animation*/
 header.Homepage {
-    background-image:url(assets/imgs/NaawiOodena.PNG);
+    background-image: url(assets/imgs/NaawiOodena.PNG);
     background-repeat: no-repeat;
     background-size: 1575px;
     padding: 10px;
@@ -48,7 +48,7 @@ header.Homepage {
     animation-direction: reverse;  
 }
 header.Spaces {
-    background-image:url(/assets/imgs/Park.jpeg);
+    background-image: url(assets/imgs/Park.jpeg);
     background-repeat: no-repeat;
     background-size: 1300px;
     padding: 10px;
@@ -58,7 +58,7 @@ header.Spaces {
     animation-direction: reverse;  
 }
 header.History {
-    background-image:url(/assets/imgs/KapyongBarracks.jpg);
+    background-image: url(assets/imgs/KapyongBarracks.jpg);
     background-repeat: no-repeat;
     background-size: 1575px;
     padding: 10px;
@@ -68,7 +68,7 @@ header.History {
     animation-direction: reverse;  
 }
 header.contact {
-    background-image:url(/assets/imgs/color.png);
+    background-image: url(assets/imgs/color.png);
     background-repeat: no-repeat;
     background-size: 1900px;
     padding: 10px;
